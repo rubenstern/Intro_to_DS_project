@@ -1,0 +1,17 @@
+<query schema-version="1.0" lang="en" type="search" sig="9Eqnk-Lg3c2eRcRfuJueKL945i0">
+  <search-config>
+    <text-search>income</text-search>
+    <category-search type="geo" summary-level-code="860" name="All 5-Digit ZIP Code Tabulation Areas fully within/partially within California"/>
+    <category-search type="geo" summary-level-code="860" name="All 5-Digit ZIP Code Tabulation Areas fully within/partially within Colorado"/>
+    <category-search type="geo" summary-level-code="860" name="All 5-Digit ZIP Code Tabulation Areas fully within/partially within District of Columbia"/>
+    <category-search type="geo" summary-level-code="860" name="All 5-Digit ZIP Code Tabulation Areas fully within/partially within Illinois"/>
+    <category-search type="geo" summary-level-code="860" name="All 5-Digit ZIP Code Tabulation Areas fully within/partially within Louisiana"/>
+    <category-search type="geo" summary-level-code="860" name="All 5-Digit ZIP Code Tabulation Areas fully within/partially within Massachusetts"/>
+    <category-search type="geo" summary-level-code="860" name="All 5-Digit ZIP Code Tabulation Areas fully within/partially within New York"/>
+    <category-search type="geo" summary-level-code="860" name="All 5-Digit ZIP Code Tabulation Areas fully within/partially within North Carolina"/>
+    <category-search type="geo" summary-level-code="860" name="All 5-Digit ZIP Code Tabulation Areas fully within/partially within Oregon"/>
+    <category-search type="geo" summary-level-code="860" name="All 5-Digit ZIP Code Tabulation Areas fully within/partially within Tennessee"/>
+    <category-search type="geo" summary-level-code="860" name="All 5-Digit ZIP Code Tabulation Areas fully within/partially within Texas"/>
+    <category-search type="geo" summary-level-code="860" name="All 5-Digit ZIP Code Tabulation Areas fully within/partially within Washington"/>
+  </search-config>
+</query>
